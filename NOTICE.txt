@@ -4,5 +4,6 @@ HeadingNaNGuard.dll is a combined work of:
 - Heading NaN Guard's own source code: public domain (The Unlicense).
 - CommonLibSSE-NG v8.3.0 (https://github.com/alandtse/CommonLibVR, commit abe9ca7): GPL-3.0-or-later WITH Modding Exception
   AND GPL-3.0 Linking Exception (with Corresponding Source).
+- spdlog, fmt (MIT) and rapidcsv (BSD-3-Clause), compiled in through CommonLibSSE-NG: see THIRD-PARTY-LICENSES.txt.
 As a whole, the DLL is distributed under GPL-3.0-or-later (COPYING.txt). Its Corresponding Source is the repository above at
 the release tag, with its git submodules.

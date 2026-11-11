@@ -49,7 +49,8 @@ involved.
 By WhiteLionNeren and Claude (Anthropic).
 
 Built with [CommonLibSSE-NG](https://github.com/alandtse/CommonLibVR) by alandtse, powerof3 and contributors
-(GPL-3.0-or-later), and with [spdlog](https://github.com/gabime/spdlog) and [fmt](https://github.com/fmtlib/fmt) (MIT).
+(GPL-3.0-or-later), and with [spdlog](https://github.com/gabime/spdlog) and [fmt](https://github.com/fmtlib/fmt) (MIT) and
+[rapidcsv](https://github.com/d99kris/rapidcsv) (BSD-3-Clause).
 Requires [SKSE64](https://skse.silverlock.org/) by the SKSE team and
 [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444) by meh321.
 
@@ -95,4 +96,5 @@ input, and is installed with a 5-byte branch after checking the function's first
 **The compiled DLL is GPL-3.0-or-later.** It statically links [CommonLibSSE-NG](https://github.com/alandtse/CommonLibVR)
 v8.3.0, which is GPL-3.0-or-later with a Modding Exception and a GPL-3.0 Linking Exception (see
 `extern/CommonLibSSE/COPYING.txt` and `EXCEPTIONS.md`), so the binary is a combined work under those terms. This repository,
-with its pinned submodule, is the binary's Corresponding Source. The release zip carries a `NOTICE.txt` and the GPL text.
+with its pinned submodule, is the binary's Corresponding Source. The release zip carries a `NOTICE.txt`, the GPL text
+(`COPYING.txt`) and `THIRD-PARTY-LICENSES.txt` (spdlog, fmt and rapidcsv, which CommonLibSSE-NG compiles into the DLL).
