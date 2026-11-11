@@ -48,6 +48,11 @@ involved.
 
 By WhiteLionNeren and Claude (Anthropic).
 
+Built with [CommonLibSSE-NG](https://github.com/alandtse/CommonLibVR) by alandtse, powerof3 and contributors
+(GPL-3.0-or-later), and with [spdlog](https://github.com/gabime/spdlog) and [fmt](https://github.com/fmtlib/fmt) (MIT).
+Requires [SKSE64](https://skse.silverlock.org/) by the SKSE team and
+[Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444) by meh321.
+
 Source code: https://github.com/WhiteLionNeren/skyrim-heading-nan-guard (public domain, Unlicense). You may reupload, modify,
 translate or include this mod in a collection without asking. The DLL itself is GPL-3.0-or-later, because it is built with
 CommonLibSSE-NG; the archive includes the license.
