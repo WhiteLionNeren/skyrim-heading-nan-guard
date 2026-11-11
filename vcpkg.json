@@ -1,0 +1,13 @@
+{
+  "name": "heading-nan-guard",
+  "version-string": "1.0.0",
+  "description": "CommonLibSSE-NG v8.3.0's dependencies (tests off), pinned to its vcpkg baseline.",
+  "dependencies": ["simpleini", "rsm-binary-io", "directxtk", "rapidcsv", "spdlog"],
+  "vcpkg-configuration": {
+    "default-registry": {
+      "kind": "git",
+      "repository": "https://github.com/microsoft/vcpkg",
+      "baseline": "00c5775211f45cd08b37fce0484b4cb940e422ab"
+    }
+  }
+}
