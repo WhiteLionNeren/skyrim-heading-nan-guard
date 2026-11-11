@@ -49,7 +49,7 @@ involved.
 By WhiteLionNeren and Claude (Anthropic).
 
 Built with [CommonLibSSE-NG](https://github.com/alandtse/CommonLibVR) by alandtse, powerof3 and contributors
-(GPL-3.0-or-later), and with [spdlog](https://github.com/gabime/spdlog) and [fmt](https://github.com/fmtlib/fmt) (MIT) and
+(GPL-3.0-or-later), and with [spdlog](https://github.com/gabime/spdlog), [fmt](https://github.com/fmtlib/fmt) (both MIT) and
 [rapidcsv](https://github.com/d99kris/rapidcsv) (BSD-3-Clause).
 Requires [SKSE64](https://skse.silverlock.org/) by the SKSE team and
 [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444) by meh321.
